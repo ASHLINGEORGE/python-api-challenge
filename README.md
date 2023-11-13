@@ -1,6 +1,4 @@
 # python-api-challenge
-# Weather and Hotel Data Analysis
-
 ## Overview
 
 This project aims to analyze weather data from various cities using the OpenWeatherMap API and visualize the 
